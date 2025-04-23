@@ -1,2 +1,0 @@
-# HyperCasualZombiGame
-ZombieShootingGame
